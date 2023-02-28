@@ -1,3 +1,10 @@
+# Project-specific (generated data, flight-logs)
+data/
+readout/
+data.txt
+data.csv
+logbook.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
